@@ -1,4 +1,4 @@
-# associatearraysandsets
+# Associate arrays and sets
 
 #1. Write a Python script to transcribe this sequence to mRNA
 
