@@ -1,4 +1,4 @@
-# dict
+# associatearraysandsets
 
 #1. Write a Python script to transcribe this sequence to mRNA
 
